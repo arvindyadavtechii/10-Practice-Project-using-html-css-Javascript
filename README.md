@@ -1,6 +1,6 @@
 # 10 HTML, CSS & JavaScript Practice Projects
 
-Welcome to my repository of **10 HTML, CSS & JavaScript Practice Projects**! This repository is designed to help beginners and intermediate learners improve their front-end development skills by building real-world projects. Each project focuses on different aspects of HTML, CSS, and JavaScript, allowing you to practice and master these essential web development technologie .
+Welcome to my repository of **10 HTML, CSS & JavaScript Practice Projects**! This repository is designed to help beginners and intermediate learners improve their front-end development skills by building real-world projects. Each project focuses on different aspects of HTML, CSS, and JavaScript, allowing you to practice and master these essential web development technologie.
 
 ## 🚀 Projects Overview
 
